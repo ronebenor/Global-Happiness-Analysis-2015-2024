@@ -20,5 +20,5 @@
 ### Identified regional disparities in happiness and economic status. 
 ## 4. Final Recommendations
 ### Derived data-driven insights geared towards policy makers to improve national well-being.
-## Tableau Storyboard
+## 5. Tableau Storyboard
 ### The interactive Tableau dashboard is available [here](https://public.tableau.com/views/Achievement6_17421297473100/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
