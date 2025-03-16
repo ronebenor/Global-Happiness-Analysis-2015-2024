@@ -10,7 +10,7 @@
 ### collected by Sustainable Development Solutions Network of the United Nations. 
 ## Key Analyses and Insights
 ## 1. Exploratory Data Analysis
-# Examined overall trends in global happiness rankings from 2015-2024. 
+## Examined overall trends in global happiness rankings from 2015-2024. 
 ### Created visualizations for key influencing factors, including GDP per capita and social support.
 ## 2. Regression Analysis
 ### Applied linear regression models to determine the strongest predictors of happiness.
